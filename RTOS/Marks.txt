@@ -1,0 +1,17 @@
+
+Name: Akshay
+
+Branch: ES
+Marks:  90 95 90 98 93
+Name: Aneesh
+
+Branch: ES
+Marks:  95 96 98 97 96
+Name: Amir
+
+Branch: ML
+Marks:  85 83 82 90 89
+Name: Akash
+
+Branch: VLSI
+Marks:  95 86 85 86 80
